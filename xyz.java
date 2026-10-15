@@ -5,5 +5,6 @@ public class xyz.java {
 		system.out.println("addision:"+(a+b));
 		system.out.println("sub:"+(a-b));
 		system.out.println(mult:"+(a-b));
+		system.out.println(prod:"+(a/b));
 	}
 }
